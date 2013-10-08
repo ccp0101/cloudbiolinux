@@ -647,6 +647,11 @@ galaxyp:
      - libffi-dev
      - libsqlite3-dev
      - sqlite3
+nginx:
+  - nginx
+
+rabbitmq:
+  - rabbitmq-server
 
 # To do -- in Deb Med but not propogated
 # squizz

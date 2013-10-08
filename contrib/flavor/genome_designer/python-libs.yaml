@@ -1,0 +1,28 @@
+---
+# Configuration file defining python specific libraries on pypi to install
+# using easy install
+pypi:
+  - Django
+  - PyVCF
+  - amqp
+  - anyjson
+  - argparse
+  - beautifulsoup4
+  - billiard
+  - biopython
+  - celery
+  - distribute
+  - django-celery
+  - django-nose
+  - django-registration
+  - ipython
+  - jsonfield
+  - kombu
+  - nose
+  - python-dateutil
+  - pytz
+  - six
+  - sympy
+  - wsgiref
+  - supervisor
+  - gunicorn
